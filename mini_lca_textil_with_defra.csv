@@ -1,0 +1,5 @@
+process,category,unit,quantity,emission_factor,factor_unit,weight_kg,distance_km,notes,quantity_computed,emissions_kgCO2e
+Cotton production,Material,kg,0.18,5.5,kgCO2e/kg,,,raw cotton weight,0.18,0.99
+Electricity manufacturing,Production,kWh,0.5,0.177,kgCO2e/kWh,,,estimated kWh per shirt,0.5,0.0885
+Sea transport Peru-Italy,Transport,tonne_km,,0.01,kgCO2e/tonne_km,180.0,10500.0,"if you provide weight_kg+distance_km, quantity is computed",1890.0,18.900000000000002
+Truck transport Italy,Transport,tonne_km,,0.12,kgCO2e/tonne_km,180.0,300.0,,54.0,6.4799999999999995
